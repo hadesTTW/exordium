@@ -112,7 +112,7 @@ def main():
 
     # Create collage
     print("Creating collage...")
-    collage_path = "C:\\Users\\eazys\\Pictures\\exordium-vic3.github.io\\teasers\\collage.png"
+    collage_path = "C:\\Users\\eazys\\Pictures\\exordium-vic3.github.io\\teasers\\collage2.png"
     create_collage(resized_image_data, collage_path)
 
     # Optionally delete resized images
