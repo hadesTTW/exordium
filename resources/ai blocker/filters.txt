@@ -1,5 +1,4 @@
-google.com##.GcKpu
-google.com##.M8OgIe
+google.com##.h7Tj7e
 google.com##.YzCcne
 docs.google.com##.docs-sidekick-gen-ai-promo-button-container
 docs.google.com##.javascriptMaterialdesignGm3WizIconButtonFilled-icon-button__touch
