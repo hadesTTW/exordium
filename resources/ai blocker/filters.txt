@@ -24,4 +24,3 @@ x.com##.r-12jitg0.r-rs99b7.r-40lpo0.r-ii8lfi.r-1e5uvyk.r-173mn98.r-13qz1uu.r-u8s
 x.com##.r-1ny4l3l.r-6416eg.r-o7ynqc.r-1loqt21.r-1qi8awa.r-2yi16.r-1wron08.r-6gpygo.r-lrvibr.r-rs99b7.r-1phboty.r-sdzlij.css-175oi2r
 x.com##div.r-cpa5s6.r-14tvyh0.css-175oi2r:nth-of-type(3)
 x.com##.r-1wtj0ep.r-1cmwbt1.r-18u37iz.r-1awozwy.css-175oi2r > .r-1h0z5md.r-18u37iz.css-175oi2r > .r-1ny4l3l.r-1loqt21.r-lrvibr.r-bztko3.r-bt1l66.r-1777fci.css-175oi2r > .r-3s2u2q.r-clp7b1.r-o7ynqc.r-1h0z5md.r-6koalj.r-1awozwy.r-16dba41.r-rjixqe.r-a023e6.r-37j5jr.r-qvutc0.r-1ttztb7.r-bcqeeo.css-146c3p1 > .r-xoduu5.css-175oi2r > .r-1hdv0qi.r-1xvli5t.r-m6rgpd.r-lrvibr.r-bnwqim.r-dnmrzs.r-yyyyoo.r-4qtqp9
-reddit.com##a[href="/answers/"]
