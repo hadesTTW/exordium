@@ -24,10 +24,14 @@ df['deathdate'] = pd.to_datetime(df['deathdate'], errors='coerce')
 # Prepare PostgreSQL connection (replace placeholders with your actual credentials)
 engine = create_engine('postgresql://postgres:postgres@localhost:5432/characters')
 
-with engine.connect() as connection:
-    with open('create_table.sql', 'r') as file:
-        create_table_sql = file.read()
-        connection.execute(create_table_sql)
+# # Drop any existing table if it exists
+# with engine.connect() as connection:
+#     connection.exec_driver_sql("DROP TABLE IF EXISTS characters;")
+
+# with engine.connect() as connection:
+#     with open('create table.sql', 'r') as file:
+#         create_table_sql = file.read()
+#         connection.exec_driver_sql(create_table_sql)
 
 # Save to SQL
 df.to_sql('characters', engine, if_exists='replace', index=False)
