@@ -6,6 +6,7 @@ docs.google.com##.javascriptMaterialdesignGm3WizIconButtonFilled-icon-button__to
 docs.google.com##.materialdesignWizIconSvgsSvgIcon.appsElementsSidekickEntryPointIcon
 docs.google.com##.appsElementsSidekickEntryPointMorphSpark.appsElementsSidekickEntryPointMorphContainer
 docs.google.com##.appsElementsSidekickEntryPointButton.javascriptMaterialdesignGm3WizIconButtonFilled-icon-button--with-tooltip.javascriptMaterialdesignGm3WizIconButtonFilled-icon-button
+docs.google.com##.appsElementsSidekickEntryPointRoot
 docs.google.com###docs-sidekick-button-container
 sheets.google.com##.javascriptMaterialdesignGm3WizIconButtonFilled-icon-button__touch
 sheets.google.com##.javascriptMaterialdesignGm3WizIconButtonFilled-icon-button__icon-slot
