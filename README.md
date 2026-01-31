@@ -1,9 +1,7 @@
 # exordium.breadcraft.me
 
-Exordium is an alternate history universe told in collaborative world-building, narrative fiction, and an upcoming grand strategy game.
+Exordium is a shared alternate history universe where an international revolution against capitalism occurs in the early 21st century.
 
-The timeline of Exordium begins with the survival of the Empire of Brazil in 1889 and ends in 2020. In this timeline, the Co-Prosperity Sphere emerges victorious from the Second World War despite the failure of the European Axis, and the resulting Cold War ends in trilateral détente.
+The timeline of Exordium diverges from ours with the survival of the Empire of Brazil in 1889. The long-term butterfly effects of this divergence leads to the Empire of Japan managing to survive World War II despite the failure of the European Axis, with the resulting Cold War ending in a trilateral détente that is both extensively dissimilar yet familiar to our world.
 
-The 2020s and the 2030s will be depicted in both narrative fiction and the game. This will lead up to a Third World War that occurs in the 2040s between the Mahlerian International Soviet Republic and the rest of humanity represented by the League of Nations. 
-
-This is the open-source branch of Exordium. 
+Currently, the world of Exordium is primarily planned to be explored in two novels: First Love / Late Spring, which depicts the decades-spanning odyssey of an individual who discovers his soulmate in the most unexpected circumstances, and The Exordium, which depicts the life of another individual who heralds World War III between the International Soviet Republic and the rest of humanity. 
